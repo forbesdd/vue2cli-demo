@@ -1,5 +1,8 @@
 <template>
-      <div class="main">main</div>
+      <div class="main">
+            main
+            <HmButton></HmButton>
+      </div>
 </template>
 
 <script>
@@ -14,7 +17,7 @@ export default {
       line-height: 400px;
       text-align: center;
       font-size: 30px;
-      background-color: rgb(28, 198, 144);
+      background-color: #f79646;
       color: white;
       margin: 20px 0;
 }

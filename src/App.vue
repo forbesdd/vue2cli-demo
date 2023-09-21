@@ -24,9 +24,8 @@ export default {
 .App {
   width: 600px;
   height: 700px;
-  background-color: skyblue;
+  background-color: #87ceeb;
   margin: 0 auto;
   padding: 20px;
-
 }
 </style>

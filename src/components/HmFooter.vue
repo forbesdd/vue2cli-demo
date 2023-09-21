@@ -1,5 +1,8 @@
 <template>
-      <div class="footer">footer</div>
+      <div class="footer">
+            footer
+            <HmButton></HmButton>
+      </div>
 </template>
 
 <script>
@@ -14,7 +17,7 @@ export default {
       line-height: 100px;
       text-align: center;
       font-size: 30px;
-      background-color: rgb(115, 43, 175);
+      background-color: #4f81bd;
       color: white;
 }
 </style>
